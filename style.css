@@ -354,13 +354,14 @@ faq
 	border-bottom: 1px solid #ccc;
   font-size: var(--font-size-xm);
 }
+.accordion-trigger:hover {
+	background:#ff1;
+}
 .accordion-contents {
 	margin: 0;
 	padding: 10px;
-	/* border-bottom: 1px solid #ccc; */
 	display: none;
 }
-
 
 
 
