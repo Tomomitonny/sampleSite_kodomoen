@@ -8,6 +8,6 @@ HTML、CSS、JavaScriptを使用して、架空のこども園のサイトを作
 - ”アクセス”にはグーグルマップを読み込みます。
 
 
-![screenshot](https://github.com/Tomomitonny/html-css-kodomoen/blob/main/screenshot.png)
+![screenshot](https://github.com/Tomomitonny/sampleSite-kodomoen/blob/main/screenshot.png)
 
 
